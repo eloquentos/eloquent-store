@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Eloquent Store
+Exec=epiphany --application-mode --profile="/usr/share/eloquent-store" https://eloquentstore.com/
+StartupNotify=true
+Terminal=false
+Type=Application
+Categories=Network;GNOME;GTK;
+Icon=/usr/share/eloquent-store/icon.png
+StartupWMClass=eloquent-store
